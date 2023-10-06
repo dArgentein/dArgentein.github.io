@@ -1,2 +1,1 @@
-# dArgentein.github.io
-theme: minimal
+# dArgentein.github.i
